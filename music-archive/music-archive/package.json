@@ -1,0 +1,12 @@
+{
+  "name": "music-archive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Loja de instrumentos musicais e discos de vinil",
+  "scripts": {
+    "start": "npm --prefix backend start",
+    "dev": "npm --prefix backend run dev",
+    "install:all": "npm --prefix backend install"
+  },
+  "type": "commonjs"
+}
